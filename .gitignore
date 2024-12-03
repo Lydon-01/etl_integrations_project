@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment variables
+*.env
+
+# Virtual environment
+.env/
+.venv/
+venv/
+ENV/
+env.bak/
+*.egg-info/
+*.egg
+
+# Test output and logs
+logs/
+nohup.out
+
+# Data files
+data/landing/
+data/staging/
+data/samples/
+
+# Backup and temporary files
+logs/backup_project/
+*.bak
+*.swp
+*.swo
+
+# Build artifacts
+build/
+dist/
+*.manifest
+*.spec
+
+# Python packaging
+*.lock
+*.log
+*.db
+*.sqlite3
+__pycache__/
+*.egg-info/
+.eggs/
+*.whl
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# MacOS files
+.DS_Store
+Thumbs.db

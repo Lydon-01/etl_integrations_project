@@ -1,0 +1,26 @@
+setuptools>=40.8.0    # Python packaging and distribution tools
+psycopg2-binary>=2.8.6    # PostgreSQL database adapter for Python
+polars>=0.8.0    # Fast DataFrame library for data manipulation
+requests>=2.25.0    # HTTP library for making API requests
+flake8>=3.8.0    # Python code linter
+black>=20.8b1    # Python code formatter
+mypy>=0.790    # Static type checker for Python
+colorama>=0.4.3    # Cross-platform colored terminal text
+schedule>=0.6.0    # Job scheduling for periodic tasks
+tqdm>=4.50.0    # Progress bar library for Python
+boto3>=1.16.0    # Amazon Web Services (AWS) SDK for Python
+python-dotenv>=0.10.5  # Load Env variables from .env file.
+
+# Running test_requirements on packages without versions works mostly. Keeping here for debugging
+# setuptools
+# psycopg2-binary
+# polars
+# requests
+# flake8
+# black
+# mypy
+# colorama
+# schedule
+# tqdm
+# boto3
+# python-dotenv
